@@ -457,7 +457,7 @@ def error_bars(fileResultsName, fileTrainName):
                         Patch(facecolor='green', edgecolor='green', alpha=0.5,
                               label='Color Patch')
                         ]
-        plt.legend(custom_lines, ['Chi-square-based feature selection', 'Random selection','SVM-based feature selection'])
+        plt.legend(custom_lines, ['Chi-square-based feature selection', 'Random selection','SVM-based feature selection'],loc='upper right', bbox_to_anchor=(0.5, 0.5))
         plt.tight_layout()
         plt.savefig('results/'+ nameWithout + '_errbar_' + fileTrainName + '.png')
         plt.show()
