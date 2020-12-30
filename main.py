@@ -69,3 +69,4 @@ for var_times in range(len(nTimes)):
         resultsSetForErrorBarsAll = ["Performance"]
         resultsSetForErrorBars_TestResultAll = ["Test"]
         resultsSetForErrorBars_MetricsAll = ["Metrics"]
+        team_file = getNewDataset()
