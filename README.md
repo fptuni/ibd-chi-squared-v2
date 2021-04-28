@@ -1,4 +1,4 @@
-# Source Code of paper SAI-chi-squared
+# Source Code of paper "Enhancing Inflammatory Bowel Disease Diagnosis Performance using Chi-Squared algorithm on Metagenomic Data"
 
 We use Python to build the program for the purpose print out the results of prediction in metrics ACC, MCC and AUC to the console and excel file.
 
