@@ -12,5 +12,5 @@ To run on your local machine, please download the project then navigate to the p
 python main.py
 ```
 ## Contact for questioning
-- Email:  trongttce130169@gmail.com
+- Email:  nthai.cit@ctu.edu.vn and trongttce130169@gmail.com
 - Phone:  +84706641166
